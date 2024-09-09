@@ -20,7 +20,7 @@ namespace MaduMäng
             line .Draw();
 
             VerticalLine Vline = new VerticalLine(8, 13, 5, '+');
-            Vline.Draw();
+            Vline.Draw(); 
 
 
 
